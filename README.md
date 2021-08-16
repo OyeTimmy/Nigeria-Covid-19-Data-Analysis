@@ -1,5 +1,5 @@
-# Usacky-Capstone-Project
-Covid-19 Nigerian Data Analysis
+# Covid-19 Nigeria Data Analysis
+Ustacky Capstone Project
 
 Analysis of the Novel Covid-19 data in Nigeria using pandas analytics
 
